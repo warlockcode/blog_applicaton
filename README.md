@@ -30,4 +30,7 @@ To build and install a Flutter application in Android Studio, follow these step-
 
    Once the app is successfully built and installed, you can interact with it on the device/emulator to test its functionality.
 
+![favorite](https://github.com/warlockcode/blog_applicaton/assets/51631418/45e57476-3c3d-441e-b47c-c968c57c7000)
+![blogdetail](https://github.com/warlockcode/blog_applicaton/assets/51631418/99e59cf2-f76a-4f20-aeb6-9be4bb754847)
+![blogview](https://github.com/warlockcode/blog_applicaton/assets/51631418/b37318db-31fb-43bc-8164-dfb6d723b119)
 
